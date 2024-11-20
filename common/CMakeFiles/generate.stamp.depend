@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FindPostgreSQL.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake
+D:/Program Files/vcpkg/installed/x64-windows/share/libpqxx/libpqxx-config-version.cmake
+D:/Program Files/vcpkg/installed/x64-windows/share/libpqxx/libpqxx-config.cmake
+D:/Program Files/vcpkg/installed/x64-windows/share/libpqxx/libpqxx-targets-debug.cmake
+D:/Program Files/vcpkg/installed/x64-windows/share/libpqxx/libpqxx-targets-release.cmake
+D:/Program Files/vcpkg/installed/x64-windows/share/libpqxx/libpqxx-targets.cmake
+D:/Program Files/vcpkg/installed/x64-windows/share/postgresql/vcpkg-cmake-wrapper.cmake
+D:/base_vcpkg/common/CMakeLists.txt
